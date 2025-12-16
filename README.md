@@ -4,9 +4,6 @@
 
 **URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
-
-<img width="1731" height="1136" alt="image" src="https://github.com/user-attachments/assets/9423dd7c-9363-4a94-8968-d7b5eb3041d1" />
-
 ## How can I edit this code?
 
 There are several ways of editing your application.
