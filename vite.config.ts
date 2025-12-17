@@ -10,7 +10,7 @@ export default defineConfig(({ mode }) => ({
     port: 8080,
   },
   // Remove this line:
-  // base: '/bad-experience-dot-io/',
+  base: '/bad-experience-dot-io/',
   plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
   resolve: {
     alias: {
