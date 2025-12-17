@@ -9,3 +9,8 @@ npm run deploy
 ```
 npm run dev
 ```
+
+# Links
+
+https://badexperience-io.github.io/bad-experience-dot-io/
+http://www.badexperience.io/
